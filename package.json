@@ -1,0 +1,25 @@
+{
+  "name": "react-native-auto-otp-detector",
+  "version": "1.0.0",
+  "description": "Auto detector of Otp for react native app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/esubalewBitew/React-Native-Auto-Otp-Detector.git"
+  },
+  "keywords": [
+    "React-native",
+    "otp",
+    "detector",
+    "autofill"
+  ],
+  "author": "Esubalew Bitew",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/esubalewBitew/React-Native-Auto-Otp-Detector/issues"
+  },
+  "homepage": "https://github.com/esubalewBitew/React-Native-Auto-Otp-Detector#readme"
+}
