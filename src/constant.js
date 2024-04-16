@@ -1,0 +1,6 @@
+export const Events = {
+    PTG_SMS_RETRIEVED: 'PTG_SMS_RETRIEVED',
+    PTG_SMS_RETRIEVE_ERROR: 'PTG_SMS_RETRIEVE_ERROR',
+};
+
+export const DEFAULT_CODE_LENGTH = 6;

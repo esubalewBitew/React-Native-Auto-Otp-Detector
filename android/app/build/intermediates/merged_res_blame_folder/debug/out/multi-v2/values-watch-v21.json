@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.paziyontechnologygroup.otpdetectorrn.app-mergeDebugResources-24:/values-watch-v21/values-watch-v21.xml",
+            "map": [
+                {
+                    "source": "/home/liyu/.gradle/caches/transforms-3/1b4d19d8ac0ad66f9610e5e795a45a62/transformed/appcompat-1.4.1/res/values-watch-v21/values-watch-v21.xml",
+                    "from": {
+                        "startLines": "2,6,10",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,271,499",
+                        "endLines": "5,9,13",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "266,494,724"
+                    }
+                }
+            ]
+        }
+    ]
+}
